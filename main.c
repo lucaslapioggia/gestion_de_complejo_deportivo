@@ -3,5 +3,5 @@
 #include <string.h>
 
 typedef struct {
-    
+    char alumno;
 }
